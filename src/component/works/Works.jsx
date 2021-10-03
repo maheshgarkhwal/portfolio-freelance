@@ -9,21 +9,21 @@ export default function Works() {
       title: "Blogging App",
       icon: "assets/mobile-phone.png",
       desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti numquam, a quo neque debitis ut molestiae totam sit dolore inventore dolor laudantium ipsam aliquid harum deleniti reprehenderit, optio facere culpa!",
-      img: "assets/a.png",
+      img: "assets/a.jpg",
     },
     {
       id: 1,
       title: "E-Commerce website",
       icon: "assets/mobile-phone.png",
       desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti numquam, a quo neque debitis ut molestiae totam sit dolore inventore dolor laudantium ipsam aliquid harum deleniti reprehenderit, optio facere culpa!",
-      img: "assets/b.png",
+      img: "assets/b.jpg",
     },
     {
       id: 1,
       title: "Social media Website",
       icon: "assets/mobile-phone.png",
       desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti numquam, a quo neque debitis ut molestiae totam sit dolore inventore dolor laudantium ipsam aliquid harum deleniti reprehenderit, optio facere culpa!",
-      img: "assets/c.png",
+      img: "assets/c.jpg",
     },
   ];
 
