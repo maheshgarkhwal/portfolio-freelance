@@ -38,6 +38,12 @@
           width: 25%;
           height: 35%;
         }
+        @include largeMobile {
+          margin-top: 70px;
+          margin-right: 100px;
+          width: 25%;
+          height: 35%;
+        }
       }
     }
   }
