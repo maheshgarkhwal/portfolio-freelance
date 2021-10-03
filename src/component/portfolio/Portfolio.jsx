@@ -1,4 +1,3 @@
-import { FreeBreakfastTwoTone } from "@material-ui/icons";
 import { useEffect, useState } from "react";
 import Portfoliolist from "../portfoliolist/PortfolioList";
 import "./portfolio.scss";
